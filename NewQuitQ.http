@@ -1,0 +1,6 @@
+@NewQuitQ_HostAddress = http://localhost:5152
+
+GET {{NewQuitQ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
